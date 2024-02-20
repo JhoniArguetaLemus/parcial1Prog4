@@ -15,11 +15,11 @@ header{
 .container{
 
     display: grid;
-    grid-template-columns: 300px 1fr;
+    grid-template-columns: 400px 1fr;
     column-gap: 10px;
 }
 
 
-.box1, .box2{
+.descripcion, .contenido{
     background-color: red;
 }
