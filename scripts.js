@@ -40,3 +40,7 @@ var elemento2 = document.getElementById("elemento2");
 
 
 contenedor.insertBefore(nuevoElemento, elemento2);
+
+function cambiarfrase(){
+    document.getElementById("parrafo1").innerHTML = "Onclick"
+}
