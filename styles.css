@@ -16,10 +16,14 @@ header{
 
     display: grid;
     grid-template-columns: 400px 1fr;
-    column-gap: 10px;
+    
 }
 
 
-.descripcion, .contenido{
+.descripcion{
+    background-color: #ececec;
+}
+
+.contenido{
     background-color: red;
 }
