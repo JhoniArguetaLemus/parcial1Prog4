@@ -1,0 +1,25 @@
+
+body{
+    margin: 0;
+
+}
+
+header{
+    background-color: #385170;
+    color: #ececec;
+
+    padding: 10px;
+    text-align: center;
+}
+
+.container{
+
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    column-gap: 10px;
+}
+
+
+.box1, .box2{
+    background-color: red;
+}
