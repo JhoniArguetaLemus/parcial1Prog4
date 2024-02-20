@@ -25,5 +25,14 @@ header{
 }
 
 .contenido{
-    background-color: red;
+    background-color: #ececec;
+    text-align: justify;
+    font-size: 23px;
+}
+footer{
+    background-color: #142d4c;
+    padding: 10px;
+    text-align: center;
+    color: #ececec;
+    font-size: 23px;
 }
